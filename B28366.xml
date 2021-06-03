@@ -1,0 +1,171 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The copy of a letter from Edmund Prideaux, Esq. ... to a member of the committees now residing in York wherein is set down many particulars touching Bridgwater, ... viz. how many considerable persons, knights, collonels, serjeant-majors, and other officers &amp;c. with great store of ammunition were taken there : also 14 articles agreed and concluded upon concerning the rendition of Pontefract Castle for the use of King and Parliament.</title>
+            <author>Prideaux, Edmond, Sir, d. 1659.</author>
+         </titleStmt>
+         <extent>Approx. 10KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B28366</idno><idno type="EEBO-CITATION">10599472</idno>
+  <idno type="VID">204735</idno>
+  <idno type="EEBO-PROQUEST">2240895191</idno>
+  
+            <idno type="STC">Wing P3411A</idno>
+            <idno type="OCLC">10599472</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. B28366)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 204735)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1408:34)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The copy of a letter from Edmund Prideaux, Esq. ... to a member of the committees now residing in York wherein is set down many particulars touching Bridgwater, ... viz. how many considerable persons, knights, collonels, serjeant-majors, and other officers &amp;c. with great store of ammunition were taken there : also 14 articles agreed and concluded upon concerning the rendition of Pontefract Castle for the use of King and Parliament.</title>
+                  <author>Prideaux, Edmond, Sir, d. 1659.</author>
+               </titleStmt>
+               <extent>[6] p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n,</publisher>
+                  <pubPlace>[S.l. :</pubPlace>
+                  <date>1645?]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Letter dated at end: 24 July, 1645.</note>
+                  <note>Reproduction of original in the Harvard University Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="geographic_name">Great Britain --  History --  Civil War, 1642-1649 --  Sources.</term>
+               <term type="geographic_name">Bridgwater (England) --  History.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-07 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-11 </date>
+            <label>Mona Logarbo </label>Sampled and proofread </change>
+         <change>
+            <date>2014-11 </date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:204735:1"/>
+            <pb facs="tcp:204735:1"/>
+            <p>The Copy of A LETTER from EDMUND PRIDEUX, <hi>ESQƲIRE,</hi> A Member of the Honourable House of COMMONS, and one of the Com<g ref="char:EOLhyphen"/>missioners of the great Seale of <hi>England,</hi> to a Member of the Committees, now residing in <hi>Yorke.</hi>
+            </p>
+            <p>Wherein is set down many particulars touching <hi>Bridgwater,</hi> (more then hath former<g ref="char:EOLhyphen"/>ly been related) <hi>viz.</hi> how many considerable persons, Knights, Collonels, Serjeant-Majors, and other Officers, &amp;c. with great store of Ammunition <hi>were taken there.</hi>
+            </p>
+            <p>Also, 14 Articles agreed and concluded upon concerning the rendition of <hi>Pontefract</hi> Castle for the use of King and <hi>Parliament.</hi>
+            </p>
+         </div>
+      </front>
+      <body>
+         <div type="letter">
+            <pb facs="tcp:204735:2"/>
+            <pb facs="tcp:204735:2"/>
+            <head>The Copy of a Letter from <hi>Edmund Pri<g ref="char:EOLhyphen"/>deux</hi> Esquire, a Member of the honou<g ref="char:EOLhyphen"/>rable house of Commons.</head>
+            <opener>
+               <salute>Sir,</salute>
+            </opener>
+            <p>GOD having beene pleased once more in a place of so great impor<g ref="char:EOLhyphen"/>tance to blesse the indeavours of that most victorious and worthy Comman<g ref="char:EOLhyphen"/>der Sir <hi>Thomas Fairfax,</hi> in the delivering the strong town of <hi>Bridgewater</hi> unto his mercy; I held it a duty in me to pub<g ref="char:EOLhyphen"/>lish and make knowne this glorious and wonderfull dealing of God with us, the particulars you will see in the inclosed: Let God be acknowledged in it, and to him bee ascribed the sole praise and glo<g ref="char:EOLhyphen"/>ry: and by Gods blessing wee hope to
+<pb facs="tcp:204735:3"/>give a good account of the full and per<g ref="char:EOLhyphen"/>fect reduction of the West, Prince <hi>Charles</hi> is in Cornwall to raise Forces there, but the Countreymen are wil<g ref="char:EOLhyphen"/>ling to serve in their own Countrey, but loathe to go out of it: They flie from Presses, and Shelter themselves in woods. <hi>Rupert</hi> is at <hi>Bristoll,</hi> and hath imprisoned some of the chief men whom he suspected: he hath likewise laboured with the Clubmen in those parts, be<g ref="char:EOLhyphen"/>seeching and intreating them once more to stand up for their King, and for their own Liberties, promising that their in<g ref="char:EOLhyphen"/>land Garrisons shall be taken away, and that they shall not bee so heavily charged with Taxes for the future: but it will not prevail, and they prepare and expect for his falling on them, and are provided for him: and generally the Clubmen are now for the <hi>Parliament.</hi> In <hi>Bridgewater</hi> are taken the Governour, <hi>alias, Nurse Windham,, sir Iohn Stoyell,</hi> and sir <hi>Iohn Digby</hi> the Lord <hi>Digbies</hi> bro<g ref="char:EOLhyphen"/>ther, and three others Knights, 6 Collo<g ref="char:EOLhyphen"/>nels,
+<pb facs="tcp:204735:3"/>14 Lieutenant. Collonels and Ser<g ref="char:EOLhyphen"/>geant Majors, 100 Captaines, Lieute<g ref="char:EOLhyphen"/>nants and other Officers, forty Gentle<g ref="char:EOLhyphen"/>men of note, two thousand prisoner at least, 800 Horse, 36 peeces of Ord<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>nance, which is a great losse unto them, being all <hi>Gorings</hi> Traine, so as now they have not any to take the field: five thousand Armes, and all <hi>Gorings</hi> Car<g ref="char:EOLhyphen"/>riages, Bagge and Baggage that were gone to <hi>Bridgwater,</hi> and much plunder for the Souldiers, being taken by Force, in which our losse was very small, not nine killed, and few wound<g ref="char:EOLhyphen"/>ed: this is a great mercy and ought to be taken notice of, and for such purpose is it written by</p>
+            <closer>
+               <dateline>
+                  <date>24 July 1645</date>
+               </dateline>
+               <signed>Your affection friend, and ready servant, <hi>Edmund Prideux.</hi>
+               </signed>
+            </closer>
+            <postscript>
+               <p>The inclosed (before spoken of) is printed, the Title whereof is. <hi>The taking of Bridgweater, &amp;c.</hi>
+               </p>
+            </postscript>
+         </div>
+         <div type="articles_of_surrender">
+            <pb facs="tcp:204735:4"/>
+            <head>Articles agreed upon, and concluded, <date>Iuly 21. 1645.</date>
+            </head>
+            <list>
+               <item>I. THat the Castle, with all Ordinance, Am<g ref="char:EOLhyphen"/>munition, provisions for warre, and other things therein (save what shall be granted in the ensuing Articles) shall upon the one and twentieth of this instant, by three of the Clocke in the afternoon, be rendered up to the Generall or whom he shall appoint to receive the same, with<g ref="char:EOLhyphen"/>out any concealment or spoyl; and perfect Lists to be given of the said Ordinance, Ammunition, &amp; provisions forthwith upon the close of this <hi>Treaty.</hi>
+               </item>
+               <item>II. That the Powder-Mill and Corn-Mill shall be left in such repair and state as they were at the beginning of the Treaty, and all the Co<g ref="char:EOLhyphen"/>lours left which were taken from the Besiegers.</item>
+               <item>3. That the Governour, all Officers, not under the degree of a Lieutenant of Horse, and a Cap<g ref="char:EOLhyphen"/>tain of Foot shall march forth with their Horse, Swords and Pistols, the inferior standing Officers of 7 Companies, with their own proper swords, Holberd and Partisons respectively, according to their severall places: &amp; 400 common Souldiers, half with Muskets, half with Pikes, colours flying, Drums beating, Matches lighted at both ends, with Bullet in their mouth, six shots of powder a peece to every Muskettier, with Match and Ball proportionable.</item>
+               <item>IIII. That all persons marching forth of the Castle shall have liberty to carry forth with them all their proper wearing apparell and mo<g ref="char:EOLhyphen"/>ney:
+<pb facs="tcp:204735:4"/>and that all Gentlemen and Officers shall have liberty to carry with them their proper Plate, money, and apparell: and the Governour sir <hi>Iohn Ramsden,</hi> Mr <hi>Pickering, Mr Ray, Mr Lister, Mr Olye, Mr Buchanon</hi> and Mr <hi>Hurst,</hi> to have all their own books respectively. But none to carry away any thing but what did properly belong to them at the beginning of this <hi>treaty.</hi>
+               </item>
+               <item>V. That none shall thee inforced to march above ten miles a day, nor are they to march under seven, if the weather will permit. That they shall have free quarter in their march, a sufficient convoy also within four miles of <hi>Newark,</hi> to serve them in and upon their march and quarters from all plunder<g ref="char:EOLhyphen"/>ing, injury and wrong whatsoever, provided they march un<g ref="char:EOLhyphen"/>der the protection thereof without stragling: and that the con<g ref="char:EOLhyphen"/>voy may safely return to Doncaster.</item>
+               <item>VI. The Governour to have one Carriage for what belongs to himselfe, as is above granted, three for the wounded and sick, and forty Horses to be provided and brought in to the severall quarters every day, at the charge of those who are to have them respectively, at the rate of 12. d. a horse <hi>per diem,</hi> to be every night restored to the respective Owners, or whom they appoint to receive the same, and especiall care to be taken by the Com<g ref="char:EOLhyphen"/>mander of lhe Convoy for the provision of quarters, and the timely bringing in of Horses, and Carriages, as aforesaid.</item>
+               <item>VII. That all persons in the Castle may have liberty to re<g ref="char:EOLhyphen"/>paire to, and live at their own Houses, or any other places within nhe Parliaments quarters, with liberty to their persons, and freedome to their Estates, according to the Lawes of the Land, and Ordinances of <hi>Parliament,</hi> and to have passes and Protections accordingly, when the same shall be desired.</item>
+               <item>VIII. That no man entice any Officer or souldier with any promise of preferment or reward, on either Side.</item>
+               <item>IX. That the Mayor &amp; Aldermen of <hi>Pontefract</hi> and all other In<g ref="char:EOLhyphen"/>habitants of that Town, now in the Castle, may repaire to and live at their own houses, or any other places within the Par<g ref="char:EOLhyphen"/>liaments
+<pb facs="tcp:204735:5"/>Quarters, with liberty to their persons, freedome to their Estates, and enjoyment of their priviledges according to the Lawes of the Land, and Ordinances of <hi>Parliament.</hi>
+               </item>
+               <item>X. That all those that are in the Castle shall have the like benefit of the Ordinance of Sequestrations for the reliefe of their Wives and Children, as belongs to other men, according to the purport of that Ordinance,</item>
+               <item>XI. That the Mayor, Aldermen and Corporation of the Town of <hi>Pontefract</hi> may have free liberty to take and carry away all Charters, Records, Writings, and Ensignes of the Corporation, now in the Castle, which Mr <hi>Copley</hi> their Re<g ref="char:EOLhyphen"/>corder, shall upon view and perusall, declare to belong unto them, together also with the Church Plate, he giving a perfect List thereof to the Generall. That the Records of the Dutchy may still remain and be reserved in the Castle, as formerly they have been: and all private men may carry away Deeds, and Evidences now in their proper custodies in the Castle respectively.</item>
+               <item>XII. That the inhabitants of <hi>Pontefract</hi> or any other per<g ref="char:EOLhyphen"/>sons now in the Castle shall not be charged with a deeper pro<g ref="char:EOLhyphen"/>portion of Assesments, then others of equall Estates; but upon complaint made, shall have equall hearing and like reliefe as others in the like cases.</item>
+               <item>XIII. That the severall owners of any goods now remaining and to be left in the Castle, shall upon the sale or disposing as thereof, have the first refusall thereof, at such reasonable rates others will give for the same, in case they come to desire the the same within seven dayes after the rendition of the Castle.</item>
+               <item>XIIII. That when the Officers, Souldiers, and others shall march away, the Army shall be drawn off to a covenient di<g ref="char:EOLhyphen"/>stance, leaving in the Town the Convoy, those Assigned to take and keep possession of the Castle, and a number propor<g ref="char:EOLhyphen"/>tionable to the strength of the enemy, who shall offer no wrong or violence, as the <hi>Generall</hi> shall be pleased to appoint the same.</item>
+            </list>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:204735:5"/>
+         </div>
+      </body>
+   </text>
+</TEI>
